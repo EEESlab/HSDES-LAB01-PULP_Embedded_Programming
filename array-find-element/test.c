@@ -22,12 +22,14 @@ void init_array(int * A_ar, int size)
 
 // return the index of the item==element of the array A_ar with size number of elements
 int find_element(int * A_ar, int size, int element){
-	int find = -1;	// return -1 if the element is not found
-	for(int i=0;i<size;i++){
-		if(A_ar[i]==element){
-			find = i;
-		}
-	}
+	int find = -1;	// return the index of the found value else -1 if the element is not found
+
+	/*
+		write here your code
+	*/
+
+
+
 	return find;
 }
 
