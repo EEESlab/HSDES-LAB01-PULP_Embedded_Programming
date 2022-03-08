@@ -11,8 +11,8 @@
 #include "pmsis.h"
 
 /*  defines */
-#define N 5
-#define M 600
+#define N 50
+#define M 50
 #define MAT_EL (2)  // matrix constant values
 #define VEC_EL (4)  // vector constant values
 
