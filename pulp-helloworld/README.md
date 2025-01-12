@@ -1,11 +1,6 @@
 # Helloworld from PULP
 
-Open a new shell and source the PULP environment:
-~~~~~shell
-source /pulp/sourceme.sh
-~~~~~
-
-Run the helloworld:
+Open a new shell and run the helloworld:
 ~~~~~shell
 cd pulp-helloworld
 make clean all run
