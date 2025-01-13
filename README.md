@@ -7,7 +7,7 @@ The execution environment for this class is distributed as a Docker container av
 The same setup will be used also in the other lab sessions.
 
 ### Recommended setup: Docker + VSCode + Dev Container
-1. Install Docker. You can follow instructions here [Docker Desktop](https://www.docker.com/products/docker-desktop/) and [Docker Engine](https://docs.docker.com/engine/install/) for Linux distros.
+1. Install Docker. You can follow instructions here [Docker Desktop](https://www.docker.com/products/docker-desktop/) (for Windows/macOS) and [Docker Engine](https://docs.docker.com/engine/install/) (for Linux distros).
 2. Install [Visual Studio Code](https://code.visualstudio.com/)
 3. Open Visual Studio Code, then through the Extensions tab look for the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension.
 4. Open this folder (HSDES-LAB01-PULP_Embedded_Programming) from Visual Studio Code. VSCode will ask you (bottom-right corner) to "Reopen in Container": select yes. The required setup should be automatically downloaded (~1.2GiB).
